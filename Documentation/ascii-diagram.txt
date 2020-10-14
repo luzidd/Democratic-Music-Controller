@@ -1,0 +1,14 @@
+mpd:
+	music player daemon
+
+mpdp:
+	mpd's protocol over tcp or unix domain socket
+
+DMC:
+	Democratic-Music-Controller
+
+
+		 _______              _______               __________
+	Audio <- | mpd |  <--mpdp-->  | DMC |  <--https-->  | webapp |
+		 -------              -------               ----------
+
