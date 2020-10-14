@@ -1,5 +1,5 @@
 [package]
-name = "Democratic-Music-Player"
+name = "Democratic-Music-Controller"
 version = "0.1.0"
 authors = ["luzidd"]
 edition = "2018"
